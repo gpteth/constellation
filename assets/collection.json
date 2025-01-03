@@ -1,0 +1,23 @@
+{
+    "name": "SCGT Constellation",
+    "symbol": "SCGT",
+    "image": "collection.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6B527d2QJsJqVT9GXhKpR4Ba3qE7L4qzUDsXqAPzxQgC",
+          "share": 100
+        }
+      ]
+    },
+    "description": "A Set of SCGT NFT's for the Solana Blockchain",
+    "seller_fee_basis_points": 0,
+      "attributes": []
+  }

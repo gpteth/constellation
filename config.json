@@ -1,0 +1,30 @@
+{
+    "tokenStandard": "nft",
+    "price": 0.5,
+    "number": 3001,
+    "symbol": "SCGT",
+    "sellerFeeBasisPoints": 0,
+    "isMutable": true,
+    "isSequential": true,
+    "creators": [
+      {
+        "address": "7HCgJt1picMUN9PJ6sVDYezjoU4PewiSQTN4Fp5L4Mxu",
+        "share": 100
+      }
+    ],
+    "uploadMethod": "pinata",
+    "ruleSet": null,
+    "awsConfig": null,
+    "sdriveApiKey": null,
+    "nftStorageAuthToken": null,
+    "shdwStorageAccount": null,
+    "pinataConfig": {
+      "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiIwMmM5OWM1Yi02MmUzLTRlMzYtYWQ5ZC04NjljOGI5MDRjMGIiLCJlbWFpbCI6IjEzMjQxMDQ1MzFAcXEuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsInBpbl9wb2xpY3kiOnsicmVnaW9ucyI6W3siZGVzaXJlZFJlcGxpY2F0aW9uQ291bnQiOjEsImlkIjoiTllDMSJ9XSwidmVyc2lvbiI6MX0sIm1mYV9lbmFibGVkIjpmYWxzZSwic3RhdHVzIjoiQUNUSVZFIn0sImF1dGhlbnRpY2F0aW9uVHlwZSI6InNjb3BlZEtleSIsInNjb3BlZEtleUtleSI6IjIzMTUyOTk1NGUyNjA4YTAwYzcyIiwic2NvcGVkS2V5U2VjcmV0IjoiOTc4ZWI0Y2RhMDU4NjUwZjFhZGNiOWViODU0MzBkYTNlZWU0ZmRlY2NhMDVhZmQ5MTkxYzI1MjczYTRhZDQxNiIsImV4cCI6MTc2NzQxMDQ4M30.ih2Zb89yarqiecra8dVCuHlZBiVCmYnZJ5xWPhileR4",
+      "apiGateway": "https://api.pinata.cloud",
+      "contentGateway": "https://constellationnft.mypinata.cloud",
+      "parallelLimit": 100
+    },
+    "hiddenSettings": null,
+    "guards": null,
+    "maxEditionSupply": null
+  }

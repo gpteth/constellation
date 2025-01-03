@@ -1,0 +1,25 @@
+{
+  "name": "SCGT",
+  "description": "SCGT Constellation",
+  "image": "https://raw.githubusercontent.com/gpteth/constellation/refs/heads/main/assets/1160.png",
+  "external_url": "https://solana.com/zh",
+  "attributes": [
+    {
+      "trait_type": "constellation",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "trait2",
+      "value": "value2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/gpteth/constellation/refs/heads/main/assets/1160.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
