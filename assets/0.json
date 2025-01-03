@@ -4,22 +4,22 @@
   "image": "https://raw.githubusercontent.com/gpteth/constellation/refs/heads/main/assets/0.png",
   "external_url": "https://solana.com/zh",
   "attributes": [
-    {
-      "trait_type": "constellation",
-      "value": "gemini"
-    },
-    {
-      "trait_type": "trait2",
-      "value": "value2"
-    }
+      {
+          "trait_type": "constellation",
+          "value": "Pisces"
+      },
+      {
+          "trait_type": "trait2",
+          "value": "value2"
+      }
   ],
   "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/gpteth/constellation/refs/heads/main/assets/0.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
+      "files": [
+          {
+              "uri": "https://raw.githubusercontent.com/gpteth/constellation/refs/heads/main/assets/0.png",
+              "type": "image/png"
+          }
+      ],
+      "category": "image"
   }
 }
